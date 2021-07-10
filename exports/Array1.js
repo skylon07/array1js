@@ -1,5 +1,5 @@
-function Test() {
-    return "hello jest!"
+class Array1 {
+    
 }
 
-module.exports = { Test }
+module.exports = { Array1 }

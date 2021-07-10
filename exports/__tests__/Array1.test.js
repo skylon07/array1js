@@ -1,6 +1,5 @@
-const { expect } = require("@jest/globals")
-const { Test } = require("../Array1.js")
+const { Array1 } = require("../Array1.js")
 
-it("returns a string", () => {
-    expect(typeof Test()).toBe("string")
+it("exports the Array1 class", () => {
+    expect(typeof Array1).toBe("function")
 })
