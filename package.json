@@ -1,6 +1,6 @@
 {
   "name": "array1js",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A JavaScript array that has 1-based indexes",
   "main": "index.js",
   "scripts": {
